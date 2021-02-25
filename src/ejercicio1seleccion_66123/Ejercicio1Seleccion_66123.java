@@ -37,6 +37,7 @@ public class Ejercicio1Seleccion_66123 {
             System.out.println("el numero mayor es: " + Numero2);
         } else {
             System.out.println("El mayor es: " + Numero3);
+            
     }
     
     }
